@@ -1,0 +1,22 @@
+{
+  "name": "Unlim_bang: Unlimited porn previews",
+  "version": "1.4",
+  "manifest_version": 2,
+  "description": "Allow unlimited previews of Bangbros, RealityKings, Culioneros, Pornpros & Teamskeet websites",
+
+  "permissions": [
+    "tabs",
+    "cookies",
+    "*://*.bangbros.com/*",
+    "*://*.realitykings.com/*",
+    "*://*.culioneros.com/*",
+    "*://*.pornpros.com/*",
+    "*://*.teamskeet.com/*",
+    "*://*.naughtyamerica.com/*",
+    "*://*.cumlouder.com/*"
+],
+  "browser_action": {
+    "default_icon": "bang.jpeg",
+    "default_popup":"popup.html"
+}
+}
